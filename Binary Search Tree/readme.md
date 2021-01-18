@@ -1,19 +1,3 @@
-+++
-author = "Xi Wang"
-title = "The Properties of BST"
-tags = ["Tree", 
-		"BST",
-]
-date =  "2021-01-16"
-description = "BST property."
-categories = [
-    "Algorithm",
-]
-draft = false
-image = ""
-
-+++
-
 ## Properties
 
 - p1:
@@ -35,7 +19,7 @@ image = ""
    - CURD in BST
    - 450, 701, 700, 98
 
-   ---
+
 
 2. p2:
 
@@ -44,7 +28,6 @@ image = ""
    - p2-2
      - Convert BST to Greater Tree, leetcode 538
 
-   ---
 
 3. Tree Construct
    - Convert Sorted Array to Binary Search Tree, leetcode 108
