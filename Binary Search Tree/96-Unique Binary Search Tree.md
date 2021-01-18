@@ -14,7 +14,7 @@ draft = false
 image = ""
 
 +++
-
+---
 ## Question:
 
 Given *n*, how many structurally unique **BST's** (binary search trees) that store values 1 ... *n*?
@@ -34,7 +34,6 @@ Given n = 3, there are a total of 5 unique BST's:
    2     1         2                 3
 ```
 
----
 
 ## High Level Idea:
 
@@ -48,7 +47,7 @@ Given n = 3, there are a total of 5 unique BST's:
   - Time: O(n^2)
   - Space: O(n)
 
----
+
 
 ## Simulation:
 
@@ -75,7 +74,6 @@ M    [ 1   1   2          ]
                j
 ```
 
----
 
 ## **Solution:**
 
