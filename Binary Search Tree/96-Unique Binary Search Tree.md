@@ -36,16 +36,16 @@ Given n = 3, there are a total of 5 unique BST's:
 
 ```java
 /*
-n      当前节点 j           左子树节点    右子树节点
-0           0                  0            0
-1           1                  0            0
-2           1                  0            1
-            2                  1            0
-3           1                  0            2
-            2                  1     				1
-            3   				       2						0
+n       cur j         nodes of leftsubtree     nodes of rightsubtree
+0           0                  0                     0
+1           1                  0                     0
+2           1                  0                     1
+            2                  1                     0
+3           1                  0                     2
+            2                  1     				     1
+            3   				    2	   					  0
 
-**Induction Rule:**   sum{左子树节点( j ) * 右子树节点( n - j - 1) },  j from 0 to i - 1
+**Induction Rule:**   sum{nodes of leftsubtree( j ) * nodes of rightsubtree( n - j - 1) },  j from 0 to i - 1
 ```
 
 ```java
