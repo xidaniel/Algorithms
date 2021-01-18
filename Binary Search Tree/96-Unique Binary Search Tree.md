@@ -1,20 +1,3 @@
-+++
-author = "Xi Wang"
-title = "Unique Binary Search Trees"
-tags = ["Tree", 
-		"BST",
-]
-date =  "2021-01-17"
-description = "BST property."
-categories = [
-    "Algorithm",
-"DP"
-]
-draft = false
-image = ""
-
-+++
----
 ## Question:
 
 Given *n*, how many structurally unique **BST's** (binary search trees) that store values 1 ... *n*?
