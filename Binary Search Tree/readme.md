@@ -1,4 +1,4 @@
-## Properties
+## Binary Search Tree Properties
 
 - p1:
   - the values of leftsubtree < currRoot.val < the values of rightsubtree
