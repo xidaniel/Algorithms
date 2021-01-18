@@ -42,8 +42,8 @@ n       cur j         nodes of leftsubtree     nodes of rightsubtree
 2           1                  0                     1
             2                  1                     0
 3           1                  0                     2
-            2                  1     				     1
-            3   				    2	   					  0
+            2                  1                     1
+            3                  2                     0
 
 **Induction Rule:**   sum{nodes of leftsubtree( j ) * nodes of rightsubtree( n - j - 1) },  j from 0 to i - 1
 ```
