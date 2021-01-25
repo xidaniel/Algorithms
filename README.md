@@ -49,6 +49,13 @@
       </ul>
     </li>
     <li>
+      <a href="#array">Array & String</a>
+      <ul>
+        <li><a href="#prerequisites">Coming Soon</a></li>
+        <li><a href="#installation">Coming Soon</a></li>
+      </ul>
+    </li>
+    <li>
       <a href="#DP">Dynamic Programming</a>
       <ul>
         <li><a href="#prerequisites">Coming Soon</a></li>
