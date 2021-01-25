@@ -30,8 +30,12 @@
     <li>
       <a href="#Tree">Tree</a>
       <ul>
-        <li><a href="#prerequisites">Coming Soon</a></li>
-        <li><a href="#installation">Coming Soon</a></li>
+        <li><a href="#prerequisites">Binary Search Tree</a></li>
+        <li><a href="#installation">Binary Tree</a></li>
+            <ul>
+            <li><a href="#prerequisites">Path Sum</a></li>
+            <li><a href="#installation">Construct</a></li>
+          </ul>
       </ul>
     </li>
     <li>
