@@ -21,31 +21,38 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#Binary Search">Getting Started</a>
+      <a href="#Binary Search">Binary Search</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#prerequisites">Coming Soon</a></li>
+        <li><a href="#installation">Coming Soon</a></li>
       </ul>
     </li>
     <li>
-      <a href="#Tree">Getting Started</a>
+      <a href="#Tree">Tree</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#prerequisites">Coming Soon</a></li>
+        <li><a href="#installation">Coming Soon</a></li>
       </ul>
     </li>
     <li>
-      <a href="#DFS">Getting Started</a>
+      <a href="#DFS">DFS</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#prerequisites">Coming Soon</a></li>
+        <li><a href="#installation">Coming Soon</a></li>
       </ul>
     </li>
     <li>
-      <a href="#BFS">Getting Started</a>
+      <a href="#BFS">BFS</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#prerequisites">Coming Soon</a></li>
+        <li><a href="#installation">Coming Soon</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#DP">Dynamic Programming</a>
+      <ul>
+        <li><a href="#prerequisites">Coming Soon</a></li>
+        <li><a href="#installation">Coming Soon</a></li>
       </ul>
     </li>
   </ol>
