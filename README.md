@@ -9,9 +9,7 @@
 
 ## About
 
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+* You know: making you wise 😄😄
 
 
 ## Algorithm Category
@@ -22,6 +20,20 @@
   <ol>
     <li>
       <a href="#Binary Search">Binary Search</a>
+      <ul>
+        <li><a href="#prerequisites">Coming Soon</a></li>
+        <li><a href="#installation">Coming Soon</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#array">Array & String</a>
+      <ul>
+        <li><a href="#prerequisites">Coming Soon</a></li>
+        <li><a href="#installation">Coming Soon</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#array">Recursion</a>
       <ul>
         <li><a href="#prerequisites">Coming Soon</a></li>
         <li><a href="#installation">Coming Soon</a></li>
@@ -53,7 +65,7 @@
       </ul>
     </li>
     <li>
-      <a href="#array">Array & String</a>
+      <a href="#BFS">Graph Search</a>
       <ul>
         <li><a href="#prerequisites">Coming Soon</a></li>
         <li><a href="#installation">Coming Soon</a></li>
@@ -74,7 +86,7 @@
 
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+Following the table of content.
 
 
 <!-- CONTACT -->
