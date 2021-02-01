@@ -1,33 +1,46 @@
-# Recursion(top to down)
+# Breadth First Search
+## Solved Problems
+- Type 1:
+  - level order traversal
+  - exercises:
+    - 111111
 
-## 第一种类型:
+- Type 2:
+  - shortest path for uniform path
+  - exercises:
+    - 111
+## Data Structures in BFS
+  - Queue or Heap
+  - HashSet
+ 
+## Coding Format:
 
-### 子问题类型相同, base case 相同
+```java
+Queue<E> queue = new ArrayDeque<>();
+Set<E> visited = new HashSet<>();
 
-- 例如(two branches): 
-  - helper(root.left)
-  - helper(root.right)
+queue.offer(E);
+visited.add(E);
+int step = 0;
 
-- 相同base case
-  - root == null
+while (!queue.isEmpty()) {
+    int size = queue.size();
+	  for (int i = 0; i < size; i ++) {
+	          E e = queue.poll();
 
-### leetcode:
+            if (e = target) {
+                return step;
+            }
 
-tree
+            for (E e : neighbors) {
+                if (!visited.contains(e)) {
+                     queue.offer(e);
+                     visited.add(e);
+                 }
+             }
+     }
+     step++;
+}
+```
 
----
-
-## 第二种类型:
-
-### 子问题类型不同, base case 分类讨论
-
-- 例如(two branches):
-  - helper(index + 1)
-  - hleper(index + 2)
-- 不同base case
-  - 分别对两个branches设置base case
-
-### leetcode:
-
-91
-
+end.
