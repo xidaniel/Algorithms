@@ -3,12 +3,11 @@
 - Type 1:
   - level order traversal
   - exercises:
-    - 111111
 
 - Type 2:
   - shortest path for uniform path
   - exercises:
-    - 111
+  
 ## Data Structures in BFS
   - Queue or Heap
   - HashSet
