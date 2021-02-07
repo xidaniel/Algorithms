@@ -3,15 +3,10 @@
 ## Two Pointer:
   - same direction
   - reverse direction
-  ### leetcode:
+  - edit distance
+  ### leetcode:161
   
 ## Silding Window
   - Fixed Windows
   - Dynamic Windows
   ### leetcode:
-  
-  
-## Edit Distance
-
-  ### leetcode: 161, 
-
