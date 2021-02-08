@@ -1,17 +1,21 @@
 # Array & String
 
 ## Two Pointer:
-  - same direction
-  - reverse direction
-  - edit distance
-    ### leetcode:161
+  - same direction:
+  - reverse direction:
+  - edit distance: **161**
   
 ## Silding Window
-  - Fixed Windows
-  - Dynamic Windows
-    ### leetcode:
+  - Fixed Windows:
+  - Dynamic Window:
+
+## Sorting
+  - Selection Sort:
+  - Merge Sort:
+  - Quick Sort:
+  - Color Sort: **75**
 
 ## 2D Array
-  - Search
-  - Traverse
-    ### leetcode:
+  - Search: **74**
+  - Traverse: **laicode121, 54, 59**
+
