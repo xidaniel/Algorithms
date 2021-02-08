@@ -1,5 +1,11 @@
 # Array & String
 
+## Sorting
+  - Selection Sort:
+  - Merge Sort:
+  - Quick Sort:
+  - Color Sort: **75**
+
 ## Two Pointer:
   - same direction:
   - reverse direction:
@@ -8,12 +14,6 @@
 ## Silding Window
   - Fixed Windows:
   - Dynamic Window:
-
-## Sorting
-  - Selection Sort:
-  - Merge Sort:
-  - Quick Sort:
-  - Color Sort: **75**
 
 ## 2D Array
   - Search: **74**
