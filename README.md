@@ -25,11 +25,10 @@
         <li><a href="#installation">Coming Soon</a></li>
       </ul>
     </li>
-    <li>
+    <l
       <a href="#array">Array & String</a>
       <ul>
-        <li><a href="#prerequisites">Coming Soon</a></li>
-        <li><a href="#installation">Coming Soon</a></li>
+        <li><a href=https://github.com/xidaniel/Ace-Algorithms-Interview/tree/master/Array%20%26%20String>Click Here</a></li>
       </ul>
     </li>
     <li>
