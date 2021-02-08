@@ -21,8 +21,7 @@
     <li>
       <a href="#Binary Search">Binary Search</a>
       <ul>
-        <li><a href="#prerequisites">Coming Soon</a></li>
-        <li><a href="#installation">Coming Soon</a></li>
+        <li><a href=https://github.com/xidaniel/Ace-Algorithms-Interview/tree/master/Binary%20Search>Click Here</a></li>
       </ul>
     </li>
     <li>
