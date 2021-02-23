@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 
-  <h1 align="center">Ace Algorithms Interview</h1>
+  <h1 align="center">Algorithms</h1>
 
 </p>
 
